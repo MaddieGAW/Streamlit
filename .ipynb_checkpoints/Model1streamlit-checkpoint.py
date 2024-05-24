@@ -1,8 +1,3 @@
-import streamlit as st
-import pandas as pd
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.preprocessing import StandardScaler
-
 # Preprocessing for numerical data
 scaler = StandardScaler()
 
